@@ -1,4 +1,4 @@
-¡Hola! Soy Pilili 👋
+Hi, I am Pilili 👋
 
 <!---
 pilili40/pilili40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
